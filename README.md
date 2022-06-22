@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript in SN
 - 🌱 I’m currently learning Basic Development in JS
 - 💞️ I’m looking to collaborate on Servicenow
-- 📫 How to reach me - Email
+- 📫 How to reach me - Email, or PM
 
 <!---
 syleecon/syleecon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
